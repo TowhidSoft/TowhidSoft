@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Towhid Hossain</h1>
-<h3 align="center">Software Engineer | Backend Systems | Microservices | Scalable Architecture</h3>
+<h3 align="center">Software Developer | Backend Systems | Microservices | Scalable Architecture</h3>
 
 <p align="center">
   <a href="https://github.com/TowhidSoft">
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔧 Software Engineer focused on **scalable backend systems & microservices**
+- 🔧 Software Developer focused on **scalable backend systems & microservices**
 - ⚡ Experienced in building **real-time applications & distributed systems**
 - 🧠 Strong understanding of **System Design, CI/CD, and DevOps workflows**
 - 🚀 Currently building **Microservice-based applications**
